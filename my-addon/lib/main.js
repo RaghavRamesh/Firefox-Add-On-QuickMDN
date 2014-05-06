@@ -1,10 +1,3 @@
-// Panel
-var panel = require('sdk/panel').Panel({
-	width: 500,
-	height: 300,
-	contentURL: "http://stackoverflow.com"
-});
-
 // Button
 var buttons = require('sdk/ui/button/action');
 var tabs = require('sdk/tabs');
